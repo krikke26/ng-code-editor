@@ -1,2 +1,2 @@
 # ng-code-editor
-Code editor for angular
+WIP! Code editor for angular
